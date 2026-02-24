@@ -1,9 +1,9 @@
-## Hi there 👋
+
 <img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
 
 <h1 align="left">
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
-  Hi, I'm <strong>ASHIK BABY</strong>
+  Hi, I'm <strong>ASHIK</strong>
 </h1>
 
 <h3>Cyber security enthusiasts and Developer | Python</h3>
@@ -42,7 +42,7 @@
 
 <td width="50%" align="center">
     <h3>🧰 Tools & Platforms</h3>
-    <img src="https://skillicons.dev/icons?i=git,flask,vscode,,kali" />
+    <img src="https://skillicons.dev/icons?i=git,flask,vscode,kali" />
 </td>
 </tr>
 </table>
@@ -52,23 +52,3 @@
 
 
 
-
-
-
-
-
-
-<!--
-**Ashikbaby139/Ashikbaby139** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
